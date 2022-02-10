@@ -1,0 +1,33 @@
+div{
+	display: block;
+}
+h1{
+	color: Red;
+}
+.headertop {
+background-color: #3db36b!important;
+height: 50px;
+}
+.headerbody{
+	height: 90px;
+	background-color: #fff!important;
+}
+.content{
+	width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.post{
+ display: flex;
+ flex-wrap: wrap;
+ margin-right: -15px;
+ margin-left: -15px;
+}
+.card{
+min-width: 0;
+}
+img{
+	max-width: 100%;
+}
